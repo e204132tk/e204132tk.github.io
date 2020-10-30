@@ -1,0 +1,23 @@
+h1{
+    color:white;
+    background-color: black;
+    text-align: center;
+}
+
+h2{
+    color:cadetblue;
+    background-color: yellow;
+    text-align: center;
+}
+
+h3{
+    color:brown;
+}
+
+p{
+    color:navy
+}
+
+body{
+    background-image: url(../images/rockwall.jpg)
+}
