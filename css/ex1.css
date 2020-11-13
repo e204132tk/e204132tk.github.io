@@ -1,0 +1,23 @@
+h1{
+    color:aqua;
+    background-color: goldenrod;
+    text-align: center;
+}
+
+h2{
+    color:lightyellow;
+    background-color:green;
+    text-align: center;
+}
+
+table{
+    background-color:aqua
+}
+
+ol{
+    background-image: url(../images/clossinglinejpg.jpg)
+}
+
+body{
+    background-image: url(../images/rockwall.jpg)
+}

@@ -19,6 +19,5 @@ p{
 }
 
 body{
-    background-image: url(../images/rockwall.jpg);
-     background-attachment: fixed;
+    background-image: url(../images/rockwall.jpg)
 }
