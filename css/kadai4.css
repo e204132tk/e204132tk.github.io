@@ -1,0 +1,27 @@
+.title{
+    background-color:black;
+    color:white;
+    text-align:center;
+}
+
+.switch{
+    background-color: skyblue;
+    color:red;
+    text-align: center;
+}
+
+.pikmin{
+    color:pink;
+    background-color: gray;
+    text-align: center;
+}
+
+.link{
+    color:green;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+
+body{
+    background-image: url(../images/colortile.jpg)
+}
